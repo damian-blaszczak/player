@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="sc-AxjAm cAcpIu"
+  >
+    <img
+      alt="name-cover"
+      class="sc-AxirZ gWTLdP"
+      src="url"
+    />
+    <div
+      class="sc-AxhUy jpygBF"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeLarge"
+        data-testid="previousTrack"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"
+        />
+      </svg>
+      <h3
+        class="sc-AxiKw chNGWo"
+      >
+        name
+      </h3>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeLarge"
+        data-testid="nextTrack"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+        />
+      </svg>
+    </div>
+    <div
+      class="sc-AxgMl hIAvRk"
+    >
+      <div
+        class="sc-AxhCb kakxRK"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          style="font-size: 4rem;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12.5 8c-2.65 0-5.05.99-6.9 2.6L2 7v9h9l-3.62-3.62c1.39-1.16 3.16-1.88 5.12-1.88 3.54 0 6.55 2.31 7.6 5.5l2.37-.78C21.08 11.03 17.15 8 12.5 8z"
+          />
+        </svg>
+        <span
+          class="sc-AxheI hrWohY"
+        >
+          15
+        </span>
+      </div>
+      <svg
+        style="width: 100px; height: 100px;"
+      >
+        i_pause.svg
+      </svg>
+      <div
+        class="sc-AxhCb kakxRK"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          style="font-size: 4rem;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18.4 10.6C16.55 8.99 14.15 8 11.5 8c-4.65 0-8.58 3.03-9.96 7.22L3.9 16c1.05-3.19 4.05-5.5 7.6-5.5 1.95 0 3.73.72 5.12 1.88L13 16h9V7l-3.6 3.6z"
+          />
+        </svg>
+        <span
+          class="sc-AxheI hrWohY"
+        >
+          30
+        </span>
+      </div>
+    </div>
+    <span
+      class="sc-AxheI hrWohY"
+    >
+      NaN:0NaN
+       / 
+      NaN:0NaN
+    </span>
+  </div>
+</div>
+`;

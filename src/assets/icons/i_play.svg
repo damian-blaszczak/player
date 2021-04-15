@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img / i_play</title>
+    <defs>
+        <filter x="-20.0%" y="-20.0%" width="140.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0862745098   0 0 0 0 0.031372549   0 0 0 0 0.160784314  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="img-/-i_play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons-/-player-/-i_play_circle" filter="url(#filter-1)" transform="translate(6.000000, 6.000000)">
+            <path d="M29.999938,6.28830321e-13 C46.5599787,6.28830321e-13 60,13.4399038 60,29.999908 C60,46.5600348 46.5599787,60 29.999938,60 C13.4400833,60 -1.70530257e-13,46.5600348 -1.70530257e-13,29.999908 C-1.70530257e-13,13.4399038 13.4400833,6.28830321e-13 29.999938,6.28830321e-13 Z M22.5,19.5054199 L22.5,40.6099366 C22.5,42.2707017 23.6311367,42.8793496 25.0264646,41.9714392 L40.9186037,31.6307595 C42.3189705,30.7195704 42.3139316,29.2584865 40.9186037,28.360014 L25.0264646,18.1268283 C23.6260978,17.2251112 22.5,17.8455723 22.5,19.5054199 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M25.0264646,41.9714392 L40.9186037,31.6307595 C42.3189705,30.7195704 42.3139316,29.2584865 40.9186037,28.360014 L25.0264646,18.1268283 C23.6260978,17.2251112 22.5,17.8455723 22.5,19.5054199 L22.5,40.6099366 C22.5,42.2707017 23.6311367,42.8793496 25.0264646,41.9714392 Z" id="Path" fill="#380089" opacity="0.3"></path>
+        </g>
+    </g>
+</svg>

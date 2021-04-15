@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="MuiTabs-root"
+  >
+    <div
+      class="MuiTabs-scroller MuiTabs-fixed"
+      style="overflow: hidden;"
+    >
+      <div
+        class="MuiTabs-flexContainer"
+        role="tablist"
+      >
+        <button
+          aria-selected="false"
+          class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit MuiTab-fullWidth"
+          role="tab"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiTab-wrapper"
+          >
+            <span
+              class="sc-AxjAm kPsxnP"
+            >
+              tab1
+            </span>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          aria-selected="true"
+          class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected MuiTab-fullWidth"
+          role="tab"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiTab-wrapper"
+          >
+            <span
+              class="sc-AxjAm kPsxnP"
+            >
+              tab2
+            </span>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          aria-selected="false"
+          class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit MuiTab-fullWidth"
+          role="tab"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiTab-wrapper"
+          >
+            <span
+              class="sc-AxjAm kPsxnP"
+            >
+              tab3
+            </span>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <span
+        class="PrivateTabIndicator-root-2 PrivateTabIndicator-colorSecondary-4 MuiTabs-indicator makeStyles-customTabIndicator-1"
+        style="left: 0px; width: 0px;"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-AxirZ bZABrH"
+  />
+  <div
+    class="sc-AxirZ bZABrH"
+  >
+    <div>
+      2
+    </div>
+  </div>
+  <div
+    class="sc-AxirZ bZABrH"
+  />
+</div>
+`;

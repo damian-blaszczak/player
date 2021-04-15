@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="sc-AxirZ bRkqVq"
+  >
+    <h2
+      class="sc-AxjAm ijAwJO"
+    >
+      Kliknij
+      <a
+        href="/player"
+        style="margin: 0px 5px; color: grey;"
+      >
+        tutaj
+      </a>
+      aby przejść do odtwarzacza
+    </h2>
+  </div>
+</div>
+`;
